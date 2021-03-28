@@ -598,7 +598,7 @@ amp-lightbox {
 }
 
 @-webkit-keyframes slideInUp {
-    0 {
+    0% {
         -webkit-transform: translateY(100%);
         transform: translateY(100%);
         visibility: visible
@@ -611,7 +611,7 @@ amp-lightbox {
 }
 
 @keyframes slideInUp {
-    0 {
+    0% {
         -webkit-transform: translateY(100%);
         transform: translateY(100%);
         visibility: visible
